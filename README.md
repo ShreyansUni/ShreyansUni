@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h2 align="left">Hi 👋! My name is Shreyans Padmani</h2>
 <!-- I'm the Chief Technology Officer (CTO) at Unique IT Solution -->
 <p>Welcome to my GitHub! I'm passionate about technology and how it can be leveraged to create innovative solutions that solve real-world problems. As the CTO of Unique IT Solution, I lead a talented team that specializes in:</p>
