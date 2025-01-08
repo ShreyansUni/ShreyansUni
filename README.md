@@ -1,5 +1,39 @@
 ## Hi there 👋
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Shreyans Padmani </h2>
+<!--     I'm the Chief Technology Officer (CTO) at Unique IT Solution -->
+    <p>Welcome to my GitHub! I'm passionate about technology and how it can be leveraged to create innovative solutions that solve real-world problems. As the CTO of Unique IT Solution, I lead a talented team that specializes in:</p>
+    
+    <ul>
+        <li><strong>Custom Software Development</strong> 💻</li>
+        <li><strong>Mobile App Development</strong> 📱</li>
+        <li><strong>CRM/ERP Solutions</strong> 🔧</li>
+        <li><strong>Web Development</strong> 🌐</li>
+        <li><strong>UI/UX Design</strong> 🎨</li>
+    </ul>
+
+    <p>We strive to provide cutting-edge solutions that drive digital transformation and operational excellence for businesses across industries.</p>
+
+    <h3>🚀 Technologies I Work With:</h3>
+    <ul>
+        <li><strong>Programming Languages:</strong> C#, JavaScript, TypeScript, SQL</li>
+        <li><strong>Frameworks & Tools:</strong> .NET (Core and Framework), React, Node.js, EF Core</li>
+        <li><strong>Database:</strong> PostgreSQL, SQL Server</li>
+        <li><strong>Cloud:</strong> AWS, Azure</li>
+        <li><strong>Other:</strong> DevOps, Docker, Kubernetes, Git</li>
+    </ul>
+
+    <h3>💼 My Journey:</h3>
+    <p>I’ve been working in the tech industry for several years, helping companies improve their digital strategies and develop solutions that streamline their operations. I enjoy mentoring my team, exploring new technologies, and delivering innovative products that align with client needs.</p>
+
+    <h3>🌱 Current Focus:</h3>
+    <ul>
+        <li>Building and improving business-critical applications</li>
+        <li>Exploring AI/ML for enhancing software solutions</li>
+        <li>Driving innovation within the IT landscape to ensure my team delivers quality solutions</li>
+    </ul>
+
+    <p>Feel free to check out some of the projects I’ve been involved with and don't hesitate to reach out if you’re interested in collaborating or discussing new opportunities.</p>
+
 
 ###
 
