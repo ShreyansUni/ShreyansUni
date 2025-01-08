@@ -1,53 +1,49 @@
 ## Hi there 👋
-<h2 align="left">Hi 👋! My name is Shreyans Padmani </h2>
-<!--     I'm the Chief Technology Officer (CTO) at Unique IT Solution -->
-    <p>Welcome to my GitHub! I'm passionate about technology and how it can be leveraged to create innovative solutions that solve real-world problems. As the CTO of Unique IT Solution, I lead a talented team that specializes in:</p>
-    
-    <ul>
-        <li><strong>Custom Software Development</strong> 💻</li>
-        <li><strong>Mobile App Development</strong> 📱</li>
-        <li><strong>CRM/ERP Solutions</strong> 🔧</li>
-        <li><strong>Web Development</strong> 🌐</li>
-        <li><strong>UI/UX Design</strong> 🎨</li>
-    </ul>
+<h2 align="left">Hi 👋! My name is Shreyans Padmani</h2>
+<!-- I'm the Chief Technology Officer (CTO) at Unique IT Solution -->
+<p>Welcome to my GitHub! I'm passionate about technology and how it can be leveraged to create innovative solutions that solve real-world problems. As the CTO of Unique IT Solution, I lead a talented team that specializes in:</p>
 
-    <p>We strive to provide cutting-edge solutions that drive digital transformation and operational excellence for businesses across industries.</p>
+<ul>
+    <li><strong>Custom Software Development</strong> 💻</li>
+    <li><strong>Mobile App Development</strong> 📱</li>
+    <li><strong>CRM/ERP Solutions</strong> 🔧</li>
+    <li><strong>Web Development</strong> 🌐</li>
+    <li><strong>UI/UX Design</strong> 🎨</li>
+</ul>
 
-    <h3>🚀 Technologies I Work With:</h3>
-    <ul>
-        <li><strong>Programming Languages:</strong> C#, JavaScript, TypeScript, SQL</li>
-        <li><strong>Frameworks & Tools:</strong> .NET (Core and Framework), React, Node.js, EF Core</li>
-        <li><strong>Database:</strong> PostgreSQL, SQL Server</li>
-        <li><strong>Cloud:</strong> AWS, Azure</li>
-        <li><strong>Other:</strong> DevOps, Docker, Kubernetes, Git</li>
-    </ul>
+<p>We strive to provide cutting-edge solutions that drive digital transformation and operational excellence for businesses across industries.</p>
 
-    <h3>💼 My Journey:</h3>
-    <p>I’ve been working in the tech industry for several years, helping companies improve their digital strategies and develop solutions that streamline their operations. I enjoy mentoring my team, exploring new technologies, and delivering innovative products that align with client needs.</p>
+<h3>🚀 Technologies I Work With:</h3>
+<ul>
+    <li><strong>Programming Languages:</strong> C#, JavaScript, TypeScript, SQL</li>
+    <li><strong>Frameworks & Tools:</strong> .NET (Core and Framework), React, Node.js, EF Core</li>
+    <li><strong>Database:</strong> PostgreSQL, SQL Server</li>
+    <li><strong>Cloud:</strong> AWS, Azure</li>
+    <li><strong>Other:</strong> DevOps, Docker, Kubernetes, Git</li>
+</ul>
 
-    <h3>🌱 Current Focus:</h3>
-    <ul>
-        <li>Building and improving business-critical applications</li>
-        <li>Exploring AI/ML for enhancing software solutions</li>
-        <li>Driving innovation within the IT landscape to ensure my team delivers quality solutions</li>
-    </ul>
+<h3>💼 My Journey:</h3>
+<p>I’ve been working in the tech industry for several years, helping companies improve their digital strategies and develop solutions that streamline their operations. I enjoy mentoring my team, exploring new technologies, and delivering innovative products that align with client needs.</p>
 
-    <p>Feel free to check out some of the projects I’ve been involved with and don't hesitate to reach out if you’re interested in collaborating or discussing new opportunities.</p>
+<h3>🌱 Current Focus:</h3>
+<ul>
+    <li>Building and improving business-critical applications</li>
+    <li>Exploring AI/ML for enhancing software solutions</li>
+    <li>Driving innovation within the IT landscape to ensure my team delivers quality solutions</li>
+</ul>
 
+<p>Feel free to check out some of the projects I’ve been involved with and don't hesitate to reach out if you’re interested in collaborating or discussing new opportunities.</p>
 
-###
-
+### Stats and Achievements
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shreyansuni&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyansuni&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
+### Fun and Interaction
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-###
-
+### Tech Stack
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -64,8 +60,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
-###
-
+### Connect with Me
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -75,8 +70,6 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/shreyansuni/shreyansuni/output/snake.svg" alt="Snake animation" />
@@ -85,19 +78,3 @@
   <img src="https://profile-counter.glitch.me/shreyansuni/count.svg?"  />
 </div>
 
-###
-###
-<!--
-**ShreyansUni/ShreyansUni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
