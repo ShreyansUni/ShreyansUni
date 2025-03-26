@@ -16,7 +16,7 @@
 <h3>🚀 Technologies I Work With:</h3>
 <ul>
     <li><strong>Programming Languages:</strong> C#, JavaScript, TypeScript, SQL</li>
-    <li><strong>Frameworks & Tools:</strong> .NET (Core and Framework), React, Node.js, EF Core</li>
+    <li><strong>Frameworks & Tools:</strong> .NET (Core and Framework), Angular, React, Node.js, EF Core</li>
     <li><strong>Database:</strong> PostgreSQL, SQL Server</li>
     <li><strong>Cloud:</strong> AWS, Azure</li>
     <li><strong>Other:</strong> DevOps, Docker, Kubernetes, Git</li>
